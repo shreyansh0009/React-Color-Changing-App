@@ -56,25 +56,9 @@ To run tests, use the following command:
 npm test
 ```
 
-## Contributing
-
-We welcome contributions from the community to improve the project. Please follow these guidelines:
-- Fork the repository
-- Make your changes
-- Create a pull request
-
-Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
 ## Contact Information
 
-For any inquiries or suggestions, please contact the maintainers at [maintainer@example.com](mailto:maintainer@example.com).
+For any inquiries or suggestions, please contact at [saurabhsharraf@gmail.com].
 
 ## Acknowledgments
-
-We would like to thank the following contributors for their valuable input and feedback:
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+ThankYou!
