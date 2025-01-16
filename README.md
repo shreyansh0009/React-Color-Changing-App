@@ -22,7 +22,7 @@ This project is a React application that allows users to change the color of a s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/React-Color-Changing-App.git
+   git clone https://github.com/shreyansh0009/React-Color-Changing-App.git
    ```
 
 2. Install the dependencies:
